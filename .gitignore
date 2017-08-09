@@ -1,0 +1,7 @@
+.idea
+db.sqlite3
+.client_secrets.json
+.DS_Store
+media
+__pycache__/
+/piedpiper/local_settings.py
