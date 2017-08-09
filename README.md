@@ -1,4 +1,4 @@
-# CyberTech: Peid Piper
+# CyberTech: Pied Piper
 
 Сервис рассылки сообщений Telegram, SMS, Email
 
